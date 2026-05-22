@@ -49,7 +49,7 @@ My current focus is turning AI capabilities into real user value:
   
 ```
 
-Next.js · TypeScript · Spring Boot · Python · Django
+Next.js · TypeScript · Spring Boot · Python
 
 ```
 
@@ -63,7 +63,7 @@ REST APIs, event-driven architectures, third-party service integration.
 
 ```
 
-AWS · Firebase · Firestore · Cloud Functions
+AWS · Firebase · Azure
 
 ```
 
@@ -77,7 +77,7 @@ AWS · Firebase · Firestore · Cloud Functions
 
 - 🎓 ****E-Learning**** — eLearning platform and content provider for serving companies, training centers, and public administration
 
-- 🎾 ****Sports**** — Learning Academy for padel Coaches and Players
+- 🎾 ****Sports**** — Learning Academy for Padel coaches and players
 
 - 🧴 ****Health coaching**** — tracking apps with personalised feedback 
 
