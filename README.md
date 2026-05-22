@@ -1,10 +1,7 @@
 
-# Julio González · jugomo
+# · Julio González ·
 
-> ****Full-stack & mobile engineer**** | 15+ years shipping products from zero to production
-
-Based in Málaga, Spain 🇪🇸 · [jugomo.dev](https://jugomo.dev)
-
+> ****Full-stack & mobile engineer**** | I craft useful things for people, and have a blast doing it.
 
 ---
 
@@ -39,17 +36,11 @@ My current focus is turning AI capabilities into real user value:
 
 ## 📱 Mobile
 
-
-| Platform | Stack |
-
-|---|---|
-
-| ****Cross-platform**** | Flutter · Dart |
-
-| ****iOS**** | SwiftUI · Swift |
-
-| ****Android**** | Jetpack Compose · Kotlin |
-
+| Platform               | Stack                    |
+| ---------------------- | ------------------------ |
+| ****Cross-platform**** | Flutter · Dart           |
+| ****iOS****            | SwiftUI · Swift          |
+| ****Android****        | Jetpack Compose · Kotlin |
 
 ---
 
@@ -82,13 +73,15 @@ AWS · Firebase · Firestore · Cloud Functions
 ## 🏗️ Domains I've worked in
 
 
-- 💊 ****Health & pharmacy**** — e-learning platforms for healthcare professionals
+- 💊 ****Health & pharmacy**** — Platforms for healthcare professionals
 
-- 🎾 ****Sports**** — SaaS for padel academies (bookings, tournaments, management)
+- 🎓 ****E-Learning**** — eLearning platform and content provider for serving companies, training centers, and public administration
 
-- 🧴 ****Health coaching**** — tracking apps with personalised feedback (acne care)
+- 🎾 ****Sports**** — Learning Academy for padel Coaches and Players
 
-- 👥 ****HR & staffing**** — custom ERP for personnel and contract management
+- 🧴 ****Health coaching**** — tracking apps with personalised feedback 
+
+- 👥 ****HR & staffing**** — ERP for personnel and contract management
 
 - 📄 ****Document management**** — digitisation and approval workflows
 
@@ -100,7 +93,7 @@ AWS · Firebase · Firestore · Cloud Functions
 ## 🔧 How I work
 
 
-15+ years delivering software in production. What defines me most:
+What defines me most:
 
 - I prefer ****understanding the problem**** before opening the editor
 
@@ -113,9 +106,3 @@ AWS · Firebase · Firestore · Cloud Functions
 
 ---
 
-
-<p align="center">
-
-  <a href="https://jugomo.dev">jugomo.dev</a>
-
-</p>
