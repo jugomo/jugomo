@@ -7,11 +7,13 @@
 
 ## 🧠 Currently exploring
 
+- ****Angular**** — create and deploy webapps and PWA
+
 - ****AI-assisted development workflows**** — local LLMs via Ollama, Claude Code, custom agents with their own identity (SOUL.md)
 
 - ****AI integration in real products**** — not demos, actual features that ship to production
 
-- Agent architecture: memory, context, reasoning and tool use
+- ****Agent architecture**** — memory, context, reasoning and tool use
 
 
 ---
@@ -49,7 +51,7 @@ My current focus is turning AI capabilities into real user value:
   
 ```
 
-Next.js · TypeScript · Spring Boot · Python
+Next.js · TypeScript · Spring Boot · Python · Angular
 
 ```
 
