@@ -1,7 +1,9 @@
 
-# · Julio González ·
-
-> ****Full-stack & mobile engineer**** | I craft useful things for people, and have a blast doing it.
+```ansi
+[2;32m01001010 01110101 01101100 01101001 01101111[0m
+[32m░▒▓█▓▒░[0m  [1;32m· Julio González ·[0m  [32m░▒▓█▓▒░[0m
+[2;32mFull-stack & mobile engineer  |  I craft useful things for people, and have a blast doing it.[0m
+```
 
 ---
 
@@ -14,25 +16,6 @@
 - ****AI integration in real products**** — not demos, actual features that ship to production
 
 - ****Agent architecture**** — memory, context, reasoning and tool use
-
-
----
-
-## 🤖 AI & LLMs
-
-My current focus is turning AI capabilities into real user value:
-
-- ****Local LLMs**** — Ollama on Apple Silicon (M5 Pro, 48 GB RAM); quantized models, benchmarking, prompt engineering
-
-- ****Claude Code**** — agentic coding; enriched-context sessions (SOUL.md, project documentation)
-
-- ****Agent design**** — identity, voice, consistent behavior; beyond the generic chatbot
-
-- ****AI in own products**** — integration in Flutter/iOS/Android apps; intelligent coaching, generative feedback
-
-- ****RAG & embeddings**** — semantic retrieval over domain knowledge bases
-
-- ****Prompt engineering**** — robust system prompts, few-shot, chain-of-thought, structured output
 
 ---
 
@@ -69,6 +52,24 @@ AWS · Firebase · Azure
 
 ```
 
+
+---
+
+## 🤖 AI & LLMs
+
+My current focus is turning AI capabilities into real user value:
+
+- ****Local LLMs**** — Ollama on Apple Silicon (M5 Pro, 48 GB RAM); quantized models, benchmarking, prompt engineering
+
+- ****Claude Code**** — agentic coding; enriched-context sessions (SOUL.md, project documentation)
+
+- ****Agent design**** — identity, voice, consistent behavior; beyond the generic chatbot
+
+- ****AI in own products**** — integration in Flutter/iOS/Android apps; intelligent coaching, generative feedback
+
+- ****RAG & embeddings**** — semantic retrieval over domain knowledge bases
+
+- ****Prompt engineering**** — robust system prompts, few-shot, chain-of-thought, structured output
 
 ---
 
