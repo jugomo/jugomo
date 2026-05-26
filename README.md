@@ -1,9 +1,5 @@
 
-```ansi
-[2;32m01001010 01110101 01101100 01101001 01101111[0m
-[32m░▒▓█▓▒░[0m  [1;32m· Julio González ·[0m  [32m░▒▓█▓▒░[0m
-[2;32mFull-stack & mobile engineer  |  I craft useful things for people, and have a blast doing it.[0m
-```
+<p align="center"><img src="header.svg" alt="Julio González"/></p>
 
 ---
 

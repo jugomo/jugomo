@@ -1,0 +1,462 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="110" viewBox="0 0 800 110">
+  <defs>
+    <clipPath id="clip"><rect width="800" height="110" rx="8"/></clipPath>
+  </defs>
+  <style>
+    @keyframes rain {
+      0%   { transform: translateY(-160px); }
+      100% { transform: translateY(130px); }
+    }
+    .c0{animation:rain 2.33s -2.09s linear infinite;}
+  .c1{animation:rain 3.49s -0.87s linear infinite;}
+  .c2{animation:rain 4.02s -3.02s linear infinite;}
+  .c3{animation:rain 2.5s -4.41s linear infinite;}
+  .c4{animation:rain 4.24s -3.14s linear infinite;}
+  .c5{animation:rain 3.5s -3.43s linear infinite;}
+  .c6{animation:rain 2.29s -3.5s linear infinite;}
+  .c7{animation:rain 3.79s -4.18s linear infinite;}
+  .c8{animation:rain 3.95s -1.05s linear infinite;}
+  .c9{animation:rain 2.33s -3.65s linear infinite;}
+  .c10{animation:rain 3.56s -1.42s linear infinite;}
+  .c11{animation:rain 4.69s -4.35s linear infinite;}
+  .c12{animation:rain 3.57s -2.25s linear infinite;}
+  .c13{animation:rain 3.45s -3.21s linear infinite;}
+  .c14{animation:rain 2.04s -0.84s linear infinite;}
+  .c15{animation:rain 3.29s -2.17s linear infinite;}
+  .c16{animation:rain 4.59s -2.72s linear infinite;}
+  .c17{animation:rain 4.22s -4.69s linear infinite;}
+  .c18{animation:rain 4.1s -4.49s linear infinite;}
+  .c19{animation:rain 4.15s -4.26s linear infinite;}
+  .c20{animation:rain 3.71s -0.11s linear infinite;}
+  .c21{animation:rain 2.93s -0.86s linear infinite;}
+  .c22{animation:rain 4.42s -0.43s linear infinite;}
+  .c23{animation:rain 3.24s -3.89s linear infinite;}
+  .c24{animation:rain 4.98s -0.97s linear infinite;}
+  .c25{animation:rain 4.77s -2.64s linear infinite;}
+  .c26{animation:rain 5.46s -0.22s linear infinite;}
+  .c27{animation:rain 2.72s -1.88s linear infinite;}
+  .c28{animation:rain 4.31s -0.45s linear infinite;}
+  .c29{animation:rain 4.8s -0.14s linear infinite;}
+  .c30{animation:rain 2.1s -2.05s linear infinite;}
+  .c31{animation:rain 5.28s -4.22s linear infinite;}
+  .c32{animation:rain 5.27s -2.83s linear infinite;}
+  .c33{animation:rain 4.05s -3.7s linear infinite;}
+  .c34{animation:rain 4.85s -2.42s linear infinite;}
+  .c35{animation:rain 2.64s -4.98s linear infinite;}
+  .c36{animation:rain 3.81s -2.22s linear infinite;}
+  .c37{animation:rain 3.78s -2.19s linear infinite;}
+    .rain { clip-path: url(#clip); }
+    .name { font: bold 22px "MS Gothic","Courier New",monospace; fill:#00ff41; letter-spacing:3px; }
+    .tag  { font: 12px "MS Gothic","Courier New",monospace; fill:#00ff41; opacity:.65; letter-spacing:1px; }
+    .bg   { fill:#080808; }
+  </style>
+
+  <!-- background -->
+  <rect class="bg" width="800" height="110" rx="8"/>
+
+  <!-- matrix rain -->
+  <g class="rain">
+    <g class="c0">
+    <text x="10" y="0" fill="#00ff41" opacity="0.1">ｹ</text>
+    <text x="10" y="14" fill="#00ff41" opacity="0.19">ﾉ</text>
+    <text x="10" y="28" fill="#00ff41" opacity="0.28">ﾙ</text>
+    <text x="10" y="42" fill="#00ff41" opacity="0.38">ｳ</text>
+    <text x="10" y="56" fill="#00ff41" opacity="0.47">ｴ</text>
+    <text x="10" y="70" fill="#00ff41" opacity="0.56">6</text>
+    <text x="10" y="84" fill="#d0ffd0" opacity="1.0">ﾒ</text>
+  </g>
+  <g class="c1">
+    <text x="31" y="0" fill="#00ff41" opacity="0.1">ｽ</text>
+    <text x="31" y="14" fill="#00ff41" opacity="0.17">ｲ</text>
+    <text x="31" y="28" fill="#00ff41" opacity="0.24">ｵ</text>
+    <text x="31" y="42" fill="#00ff41" opacity="0.31">ﾋ</text>
+    <text x="31" y="56" fill="#00ff41" opacity="0.38">ﾊ</text>
+    <text x="31" y="70" fill="#00ff41" opacity="0.44">ｴ</text>
+    <text x="31" y="84" fill="#00ff41" opacity="0.51">ｿ</text>
+    <text x="31" y="98" fill="#00ff41" opacity="0.58">ｵ</text>
+    <text x="31" y="112" fill="#d0ffd0" opacity="1.0">ﾓ</text>
+  </g>
+  <g class="c2">
+    <text x="52" y="0" fill="#00ff41" opacity="0.1">ｾ</text>
+    <text x="52" y="14" fill="#00ff41" opacity="0.24">ﾘ</text>
+    <text x="52" y="28" fill="#00ff41" opacity="0.38">ﾘ</text>
+    <text x="52" y="42" fill="#00ff41" opacity="0.51">ﾕ</text>
+    <text x="52" y="56" fill="#d0ffd0" opacity="1.0">ｳ</text>
+  </g>
+  <g class="c3">
+    <text x="73" y="0" fill="#00ff41" opacity="0.1">ｲ</text>
+    <text x="73" y="14" fill="#00ff41" opacity="0.21">ﾓ</text>
+    <text x="73" y="28" fill="#00ff41" opacity="0.32">8</text>
+    <text x="73" y="42" fill="#00ff41" opacity="0.43">ｸ</text>
+    <text x="73" y="56" fill="#00ff41" opacity="0.54">ﾂ</text>
+    <text x="73" y="70" fill="#d0ffd0" opacity="1.0">ﾊ</text>
+  </g>
+  <g class="c4">
+    <text x="94" y="0" fill="#00ff41" opacity="0.1">ﾓ</text>
+    <text x="94" y="14" fill="#00ff41" opacity="0.19">6</text>
+    <text x="94" y="28" fill="#00ff41" opacity="0.28">ﾛ</text>
+    <text x="94" y="42" fill="#00ff41" opacity="0.38">ｻ</text>
+    <text x="94" y="56" fill="#00ff41" opacity="0.47">ｶ</text>
+    <text x="94" y="70" fill="#00ff41" opacity="0.56">ﾕ</text>
+    <text x="94" y="84" fill="#d0ffd0" opacity="1.0">ﾔ</text>
+  </g>
+  <g class="c5">
+    <text x="115" y="0" fill="#00ff41" opacity="0.1">ﾝ</text>
+    <text x="115" y="14" fill="#00ff41" opacity="0.17">ｴ</text>
+    <text x="115" y="28" fill="#00ff41" opacity="0.24">ﾔ</text>
+    <text x="115" y="42" fill="#00ff41" opacity="0.31">ｳ</text>
+    <text x="115" y="56" fill="#00ff41" opacity="0.38">ﾗ</text>
+    <text x="115" y="70" fill="#00ff41" opacity="0.44">ｽ</text>
+    <text x="115" y="84" fill="#00ff41" opacity="0.51">ﾏ</text>
+    <text x="115" y="98" fill="#00ff41" opacity="0.58">ﾛ</text>
+    <text x="115" y="112" fill="#d0ffd0" opacity="1.0">ﾒ</text>
+  </g>
+  <g class="c6">
+    <text x="136" y="0" fill="#00ff41" opacity="0.1">ﾍ</text>
+    <text x="136" y="14" fill="#00ff41" opacity="0.17">ﾇ</text>
+    <text x="136" y="28" fill="#00ff41" opacity="0.24">ﾃ</text>
+    <text x="136" y="42" fill="#00ff41" opacity="0.31">ｿ</text>
+    <text x="136" y="56" fill="#00ff41" opacity="0.38">4</text>
+    <text x="136" y="70" fill="#00ff41" opacity="0.44">ｻ</text>
+    <text x="136" y="84" fill="#00ff41" opacity="0.51">ﾜ</text>
+    <text x="136" y="98" fill="#00ff41" opacity="0.58">3</text>
+    <text x="136" y="112" fill="#d0ffd0" opacity="1.0">ｿ</text>
+  </g>
+  <g class="c7">
+    <text x="157" y="0" fill="#00ff41" opacity="0.1">Z</text>
+    <text x="157" y="14" fill="#00ff41" opacity="0.18">ﾅ</text>
+    <text x="157" y="28" fill="#00ff41" opacity="0.26">0</text>
+    <text x="157" y="42" fill="#00ff41" opacity="0.34">ﾌ</text>
+    <text x="157" y="56" fill="#00ff41" opacity="0.41">ﾂ</text>
+    <text x="157" y="70" fill="#00ff41" opacity="0.49">ﾖ</text>
+    <text x="157" y="84" fill="#00ff41" opacity="0.57">ｴ</text>
+    <text x="157" y="98" fill="#d0ffd0" opacity="1.0">ｷ</text>
+  </g>
+  <g class="c8">
+    <text x="178" y="0" fill="#00ff41" opacity="0.1">ｹ</text>
+    <text x="178" y="14" fill="#00ff41" opacity="0.19">ﾏ</text>
+    <text x="178" y="28" fill="#00ff41" opacity="0.28">ﾊ</text>
+    <text x="178" y="42" fill="#00ff41" opacity="0.38">ｲ</text>
+    <text x="178" y="56" fill="#00ff41" opacity="0.47">ﾚ</text>
+    <text x="178" y="70" fill="#00ff41" opacity="0.56">ｴ</text>
+    <text x="178" y="84" fill="#d0ffd0" opacity="1.0">2</text>
+  </g>
+  <g class="c9">
+    <text x="200" y="0" fill="#00ff41" opacity="0.1">ﾄ</text>
+    <text x="200" y="14" fill="#00ff41" opacity="0.16">ﾅ</text>
+    <text x="200" y="28" fill="#00ff41" opacity="0.21">ﾜ</text>
+    <text x="200" y="42" fill="#00ff41" opacity="0.27">ﾆ</text>
+    <text x="200" y="56" fill="#00ff41" opacity="0.32">ﾖ</text>
+    <text x="200" y="70" fill="#00ff41" opacity="0.38">ﾏ</text>
+    <text x="200" y="84" fill="#00ff41" opacity="0.43">ﾕ</text>
+    <text x="200" y="98" fill="#00ff41" opacity="0.48">5</text>
+    <text x="200" y="112" fill="#00ff41" opacity="0.54">ﾍ</text>
+    <text x="200" y="126" fill="#00ff41" opacity="0.6">ｴ</text>
+    <text x="200" y="140" fill="#d0ffd0" opacity="1.0">7</text>
+  </g>
+  <g class="c10">
+    <text x="221" y="0" fill="#00ff41" opacity="0.1">ﾚ</text>
+    <text x="221" y="14" fill="#00ff41" opacity="0.16">ｴ</text>
+    <text x="221" y="28" fill="#00ff41" opacity="0.22">ｳ</text>
+    <text x="221" y="42" fill="#00ff41" opacity="0.28">0</text>
+    <text x="221" y="56" fill="#00ff41" opacity="0.34">ﾜ</text>
+    <text x="221" y="70" fill="#00ff41" opacity="0.41">ﾃ</text>
+    <text x="221" y="84" fill="#00ff41" opacity="0.47">ﾙ</text>
+    <text x="221" y="98" fill="#00ff41" opacity="0.53">ﾔ</text>
+    <text x="221" y="112" fill="#00ff41" opacity="0.59">ﾛ</text>
+    <text x="221" y="126" fill="#d0ffd0" opacity="1.0">6</text>
+  </g>
+  <g class="c11">
+    <text x="242" y="0" fill="#00ff41" opacity="0.1">ﾆ</text>
+    <text x="242" y="14" fill="#00ff41" opacity="0.16">ｱ</text>
+    <text x="242" y="28" fill="#00ff41" opacity="0.22">ﾍ</text>
+    <text x="242" y="42" fill="#00ff41" opacity="0.28">ﾆ</text>
+    <text x="242" y="56" fill="#00ff41" opacity="0.34">ｺ</text>
+    <text x="242" y="70" fill="#00ff41" opacity="0.41">ﾗ</text>
+    <text x="242" y="84" fill="#00ff41" opacity="0.47">ｷ</text>
+    <text x="242" y="98" fill="#00ff41" opacity="0.53">ﾏ</text>
+    <text x="242" y="112" fill="#00ff41" opacity="0.59">ｳ</text>
+    <text x="242" y="126" fill="#d0ffd0" opacity="1.0">ｽ</text>
+  </g>
+  <g class="c12">
+    <text x="263" y="0" fill="#00ff41" opacity="0.1">ﾉ</text>
+    <text x="263" y="14" fill="#00ff41" opacity="0.21">ﾉ</text>
+    <text x="263" y="28" fill="#00ff41" opacity="0.32">9</text>
+    <text x="263" y="42" fill="#00ff41" opacity="0.43">ﾏ</text>
+    <text x="263" y="56" fill="#00ff41" opacity="0.54">ｵ</text>
+    <text x="263" y="70" fill="#d0ffd0" opacity="1.0">ｺ</text>
+  </g>
+  <g class="c13">
+    <text x="284" y="0" fill="#00ff41" opacity="0.1">6</text>
+    <text x="284" y="14" fill="#00ff41" opacity="0.21">ﾋ</text>
+    <text x="284" y="28" fill="#00ff41" opacity="0.32">9</text>
+    <text x="284" y="42" fill="#00ff41" opacity="0.43">ﾓ</text>
+    <text x="284" y="56" fill="#00ff41" opacity="0.54">ﾁ</text>
+    <text x="284" y="70" fill="#d0ffd0" opacity="1.0">ﾝ</text>
+  </g>
+  <g class="c14">
+    <text x="305" y="0" fill="#00ff41" opacity="0.1">ｾ</text>
+    <text x="305" y="14" fill="#00ff41" opacity="0.18">ｹ</text>
+    <text x="305" y="28" fill="#00ff41" opacity="0.26">ｵ</text>
+    <text x="305" y="42" fill="#00ff41" opacity="0.34">ｻ</text>
+    <text x="305" y="56" fill="#00ff41" opacity="0.41">ｹ</text>
+    <text x="305" y="70" fill="#00ff41" opacity="0.49">ｾ</text>
+    <text x="305" y="84" fill="#00ff41" opacity="0.57">ﾚ</text>
+    <text x="305" y="98" fill="#d0ffd0" opacity="1.0">ｾ</text>
+  </g>
+  <g class="c15">
+    <text x="326" y="0" fill="#00ff41" opacity="0.1">ﾀ</text>
+    <text x="326" y="14" fill="#00ff41" opacity="0.21">ﾂ</text>
+    <text x="326" y="28" fill="#00ff41" opacity="0.32">ｦ</text>
+    <text x="326" y="42" fill="#00ff41" opacity="0.43">ｹ</text>
+    <text x="326" y="56" fill="#00ff41" opacity="0.54">ﾊ</text>
+    <text x="326" y="70" fill="#d0ffd0" opacity="1.0">ﾒ</text>
+  </g>
+  <g class="c16">
+    <text x="347" y="0" fill="#00ff41" opacity="0.1">ﾜ</text>
+    <text x="347" y="14" fill="#00ff41" opacity="0.21">8</text>
+    <text x="347" y="28" fill="#00ff41" opacity="0.32">ﾐ</text>
+    <text x="347" y="42" fill="#00ff41" opacity="0.43">ﾗ</text>
+    <text x="347" y="56" fill="#00ff41" opacity="0.54">ﾙ</text>
+    <text x="347" y="70" fill="#d0ffd0" opacity="1.0">ﾛ</text>
+  </g>
+  <g class="c17">
+    <text x="368" y="0" fill="#00ff41" opacity="0.1">3</text>
+    <text x="368" y="14" fill="#00ff41" opacity="0.16">9</text>
+    <text x="368" y="28" fill="#00ff41" opacity="0.21">ﾛ</text>
+    <text x="368" y="42" fill="#00ff41" opacity="0.27">5</text>
+    <text x="368" y="56" fill="#00ff41" opacity="0.32">ﾓ</text>
+    <text x="368" y="70" fill="#00ff41" opacity="0.38">ﾉ</text>
+    <text x="368" y="84" fill="#00ff41" opacity="0.43">ﾉ</text>
+    <text x="368" y="98" fill="#00ff41" opacity="0.48">ﾉ</text>
+    <text x="368" y="112" fill="#00ff41" opacity="0.54">ﾉ</text>
+    <text x="368" y="126" fill="#00ff41" opacity="0.6">ｶ</text>
+    <text x="368" y="140" fill="#d0ffd0" opacity="1.0">ﾎ</text>
+  </g>
+  <g class="c18">
+    <text x="389" y="0" fill="#00ff41" opacity="0.1">ｽ</text>
+    <text x="389" y="14" fill="#00ff41" opacity="0.24">ﾌ</text>
+    <text x="389" y="28" fill="#00ff41" opacity="0.38">ｺ</text>
+    <text x="389" y="42" fill="#00ff41" opacity="0.51">ｷ</text>
+    <text x="389" y="56" fill="#d0ffd0" opacity="1.0">ﾅ</text>
+  </g>
+  <g class="c19">
+    <text x="410" y="0" fill="#00ff41" opacity="0.1">ｹ</text>
+    <text x="410" y="14" fill="#00ff41" opacity="0.17">ﾒ</text>
+    <text x="410" y="28" fill="#00ff41" opacity="0.24">ｶ</text>
+    <text x="410" y="42" fill="#00ff41" opacity="0.31">ﾇ</text>
+    <text x="410" y="56" fill="#00ff41" opacity="0.38">ﾗ</text>
+    <text x="410" y="70" fill="#00ff41" opacity="0.44">ｱ</text>
+    <text x="410" y="84" fill="#00ff41" opacity="0.51">ｴ</text>
+    <text x="410" y="98" fill="#00ff41" opacity="0.58">9</text>
+    <text x="410" y="112" fill="#d0ffd0" opacity="1.0">ｽ</text>
+  </g>
+  <g class="c20">
+    <text x="431" y="0" fill="#00ff41" opacity="0.1">ﾆ</text>
+    <text x="431" y="14" fill="#00ff41" opacity="0.19">ﾖ</text>
+    <text x="431" y="28" fill="#00ff41" opacity="0.28">ﾇ</text>
+    <text x="431" y="42" fill="#00ff41" opacity="0.38">ﾎ</text>
+    <text x="431" y="56" fill="#00ff41" opacity="0.47">ｷ</text>
+    <text x="431" y="70" fill="#00ff41" opacity="0.56">ｷ</text>
+    <text x="431" y="84" fill="#d0ffd0" opacity="1.0">8</text>
+  </g>
+  <g class="c21">
+    <text x="452" y="0" fill="#00ff41" opacity="0.1">ﾎ</text>
+    <text x="452" y="14" fill="#00ff41" opacity="0.18">ﾃ</text>
+    <text x="452" y="28" fill="#00ff41" opacity="0.26">ｵ</text>
+    <text x="452" y="42" fill="#00ff41" opacity="0.34">ｹ</text>
+    <text x="452" y="56" fill="#00ff41" opacity="0.41">ｶ</text>
+    <text x="452" y="70" fill="#00ff41" opacity="0.49">1</text>
+    <text x="452" y="84" fill="#00ff41" opacity="0.57">ﾅ</text>
+    <text x="452" y="98" fill="#d0ffd0" opacity="1.0">1</text>
+  </g>
+  <g class="c22">
+    <text x="473" y="0" fill="#00ff41" opacity="0.1">ﾑ</text>
+    <text x="473" y="14" fill="#00ff41" opacity="0.21">ｱ</text>
+    <text x="473" y="28" fill="#00ff41" opacity="0.32">ｽ</text>
+    <text x="473" y="42" fill="#00ff41" opacity="0.43">ﾑ</text>
+    <text x="473" y="56" fill="#00ff41" opacity="0.54">ﾇ</text>
+    <text x="473" y="70" fill="#d0ffd0" opacity="1.0">ｹ</text>
+  </g>
+  <g class="c23">
+    <text x="494" y="0" fill="#00ff41" opacity="0.1">ﾑ</text>
+    <text x="494" y="14" fill="#00ff41" opacity="0.16">ﾃ</text>
+    <text x="494" y="28" fill="#00ff41" opacity="0.21">ﾙ</text>
+    <text x="494" y="42" fill="#00ff41" opacity="0.27">9</text>
+    <text x="494" y="56" fill="#00ff41" opacity="0.32">ｵ</text>
+    <text x="494" y="70" fill="#00ff41" opacity="0.38">ﾜ</text>
+    <text x="494" y="84" fill="#00ff41" opacity="0.43">8</text>
+    <text x="494" y="98" fill="#00ff41" opacity="0.48">ﾀ</text>
+    <text x="494" y="112" fill="#00ff41" opacity="0.54">ﾑ</text>
+    <text x="494" y="126" fill="#00ff41" opacity="0.6">ﾇ</text>
+    <text x="494" y="140" fill="#d0ffd0" opacity="1.0">ｺ</text>
+  </g>
+  <g class="c24">
+    <text x="515" y="0" fill="#00ff41" opacity="0.1">3</text>
+    <text x="515" y="14" fill="#00ff41" opacity="0.17">ﾐ</text>
+    <text x="515" y="28" fill="#00ff41" opacity="0.24">ﾅ</text>
+    <text x="515" y="42" fill="#00ff41" opacity="0.31">ﾘ</text>
+    <text x="515" y="56" fill="#00ff41" opacity="0.38">ｾ</text>
+    <text x="515" y="70" fill="#00ff41" opacity="0.44">ﾗ</text>
+    <text x="515" y="84" fill="#00ff41" opacity="0.51">5</text>
+    <text x="515" y="98" fill="#00ff41" opacity="0.58">4</text>
+    <text x="515" y="112" fill="#d0ffd0" opacity="1.0">2</text>
+  </g>
+  <g class="c25">
+    <text x="536" y="0" fill="#00ff41" opacity="0.1">ﾉ</text>
+    <text x="536" y="14" fill="#00ff41" opacity="0.16">1</text>
+    <text x="536" y="28" fill="#00ff41" opacity="0.21">5</text>
+    <text x="536" y="42" fill="#00ff41" opacity="0.27">ｾ</text>
+    <text x="536" y="56" fill="#00ff41" opacity="0.32">ｼ</text>
+    <text x="536" y="70" fill="#00ff41" opacity="0.38">ﾑ</text>
+    <text x="536" y="84" fill="#00ff41" opacity="0.43">ﾏ</text>
+    <text x="536" y="98" fill="#00ff41" opacity="0.48">ﾆ</text>
+    <text x="536" y="112" fill="#00ff41" opacity="0.54">0</text>
+    <text x="536" y="126" fill="#00ff41" opacity="0.6">ｱ</text>
+    <text x="536" y="140" fill="#d0ffd0" opacity="1.0">ｱ</text>
+  </g>
+  <g class="c26">
+    <text x="557" y="0" fill="#00ff41" opacity="0.1">ﾜ</text>
+    <text x="557" y="14" fill="#00ff41" opacity="0.21">ﾖ</text>
+    <text x="557" y="28" fill="#00ff41" opacity="0.32">ﾆ</text>
+    <text x="557" y="42" fill="#00ff41" opacity="0.43">ﾌ</text>
+    <text x="557" y="56" fill="#00ff41" opacity="0.54">5</text>
+    <text x="557" y="70" fill="#d0ffd0" opacity="1.0">0</text>
+  </g>
+  <g class="c27">
+    <text x="578" y="0" fill="#00ff41" opacity="0.1">ｵ</text>
+    <text x="578" y="14" fill="#00ff41" opacity="0.19">ｾ</text>
+    <text x="578" y="28" fill="#00ff41" opacity="0.28">ｶ</text>
+    <text x="578" y="42" fill="#00ff41" opacity="0.38">ｾ</text>
+    <text x="578" y="56" fill="#00ff41" opacity="0.47">ﾎ</text>
+    <text x="578" y="70" fill="#00ff41" opacity="0.56">ｼ</text>
+    <text x="578" y="84" fill="#d0ffd0" opacity="1.0">ﾅ</text>
+  </g>
+  <g class="c28">
+    <text x="600" y="0" fill="#00ff41" opacity="0.1">7</text>
+    <text x="600" y="14" fill="#00ff41" opacity="0.17">ｦ</text>
+    <text x="600" y="28" fill="#00ff41" opacity="0.24">ﾎ</text>
+    <text x="600" y="42" fill="#00ff41" opacity="0.31">ﾙ</text>
+    <text x="600" y="56" fill="#00ff41" opacity="0.38">ﾆ</text>
+    <text x="600" y="70" fill="#00ff41" opacity="0.44">5</text>
+    <text x="600" y="84" fill="#00ff41" opacity="0.51">ﾙ</text>
+    <text x="600" y="98" fill="#00ff41" opacity="0.58">ｵ</text>
+    <text x="600" y="112" fill="#d0ffd0" opacity="1.0">7</text>
+  </g>
+  <g class="c29">
+    <text x="621" y="0" fill="#00ff41" opacity="0.1">ﾝ</text>
+    <text x="621" y="14" fill="#00ff41" opacity="0.16">2</text>
+    <text x="621" y="28" fill="#00ff41" opacity="0.21">ｼ</text>
+    <text x="621" y="42" fill="#00ff41" opacity="0.27">ﾎ</text>
+    <text x="621" y="56" fill="#00ff41" opacity="0.32">Z</text>
+    <text x="621" y="70" fill="#00ff41" opacity="0.38">ｻ</text>
+    <text x="621" y="84" fill="#00ff41" opacity="0.43">ﾋ</text>
+    <text x="621" y="98" fill="#00ff41" opacity="0.48">4</text>
+    <text x="621" y="112" fill="#00ff41" opacity="0.54">ﾘ</text>
+    <text x="621" y="126" fill="#00ff41" opacity="0.6">ﾅ</text>
+    <text x="621" y="140" fill="#d0ffd0" opacity="1.0">ｵ</text>
+  </g>
+  <g class="c30">
+    <text x="642" y="0" fill="#00ff41" opacity="0.1">ﾍ</text>
+    <text x="642" y="14" fill="#00ff41" opacity="0.18">ﾉ</text>
+    <text x="642" y="28" fill="#00ff41" opacity="0.26">1</text>
+    <text x="642" y="42" fill="#00ff41" opacity="0.34">ｵ</text>
+    <text x="642" y="56" fill="#00ff41" opacity="0.41">0</text>
+    <text x="642" y="70" fill="#00ff41" opacity="0.49">ｺ</text>
+    <text x="642" y="84" fill="#00ff41" opacity="0.57">ｺ</text>
+    <text x="642" y="98" fill="#d0ffd0" opacity="1.0">ｸ</text>
+  </g>
+  <g class="c31">
+    <text x="663" y="0" fill="#00ff41" opacity="0.1">5</text>
+    <text x="663" y="14" fill="#00ff41" opacity="0.18">ﾙ</text>
+    <text x="663" y="28" fill="#00ff41" opacity="0.26">ｹ</text>
+    <text x="663" y="42" fill="#00ff41" opacity="0.34">ﾗ</text>
+    <text x="663" y="56" fill="#00ff41" opacity="0.41">6</text>
+    <text x="663" y="70" fill="#00ff41" opacity="0.49">ﾖ</text>
+    <text x="663" y="84" fill="#00ff41" opacity="0.57">ﾎ</text>
+    <text x="663" y="98" fill="#d0ffd0" opacity="1.0">ﾚ</text>
+  </g>
+  <g class="c32">
+    <text x="684" y="0" fill="#00ff41" opacity="0.1">ｸ</text>
+    <text x="684" y="14" fill="#00ff41" opacity="0.17">ｱ</text>
+    <text x="684" y="28" fill="#00ff41" opacity="0.24">ｦ</text>
+    <text x="684" y="42" fill="#00ff41" opacity="0.31">5</text>
+    <text x="684" y="56" fill="#00ff41" opacity="0.38">0</text>
+    <text x="684" y="70" fill="#00ff41" opacity="0.44">ﾙ</text>
+    <text x="684" y="84" fill="#00ff41" opacity="0.51">ｶ</text>
+    <text x="684" y="98" fill="#00ff41" opacity="0.58">ﾑ</text>
+    <text x="684" y="112" fill="#d0ffd0" opacity="1.0">1</text>
+  </g>
+  <g class="c33">
+    <text x="705" y="0" fill="#00ff41" opacity="0.1">ｼ</text>
+    <text x="705" y="14" fill="#00ff41" opacity="0.16">6</text>
+    <text x="705" y="28" fill="#00ff41" opacity="0.21">9</text>
+    <text x="705" y="42" fill="#00ff41" opacity="0.27">ｽ</text>
+    <text x="705" y="56" fill="#00ff41" opacity="0.32">ｱ</text>
+    <text x="705" y="70" fill="#00ff41" opacity="0.38">ﾀ</text>
+    <text x="705" y="84" fill="#00ff41" opacity="0.43">ｽ</text>
+    <text x="705" y="98" fill="#00ff41" opacity="0.48">ﾂ</text>
+    <text x="705" y="112" fill="#00ff41" opacity="0.54">ﾐ</text>
+    <text x="705" y="126" fill="#00ff41" opacity="0.6">ｿ</text>
+    <text x="705" y="140" fill="#d0ffd0" opacity="1.0">2</text>
+  </g>
+  <g class="c34">
+    <text x="726" y="0" fill="#00ff41" opacity="0.1">7</text>
+    <text x="726" y="14" fill="#00ff41" opacity="0.18">ｸ</text>
+    <text x="726" y="28" fill="#00ff41" opacity="0.26">ｳ</text>
+    <text x="726" y="42" fill="#00ff41" opacity="0.34">1</text>
+    <text x="726" y="56" fill="#00ff41" opacity="0.41">ﾆ</text>
+    <text x="726" y="70" fill="#00ff41" opacity="0.49">ﾍ</text>
+    <text x="726" y="84" fill="#00ff41" opacity="0.57">ﾚ</text>
+    <text x="726" y="98" fill="#d0ffd0" opacity="1.0">ﾕ</text>
+  </g>
+  <g class="c35">
+    <text x="747" y="0" fill="#00ff41" opacity="0.1">Z</text>
+    <text x="747" y="14" fill="#00ff41" opacity="0.16">ﾐ</text>
+    <text x="747" y="28" fill="#00ff41" opacity="0.21">ｸ</text>
+    <text x="747" y="42" fill="#00ff41" opacity="0.27">ﾒ</text>
+    <text x="747" y="56" fill="#00ff41" opacity="0.32">ｹ</text>
+    <text x="747" y="70" fill="#00ff41" opacity="0.38">ﾑ</text>
+    <text x="747" y="84" fill="#00ff41" opacity="0.43">ﾐ</text>
+    <text x="747" y="98" fill="#00ff41" opacity="0.48">ｱ</text>
+    <text x="747" y="112" fill="#00ff41" opacity="0.54">9</text>
+    <text x="747" y="126" fill="#00ff41" opacity="0.6">ﾌ</text>
+    <text x="747" y="140" fill="#d0ffd0" opacity="1.0">3</text>
+  </g>
+  <g class="c36">
+    <text x="768" y="0" fill="#00ff41" opacity="0.1">ｹ</text>
+    <text x="768" y="14" fill="#00ff41" opacity="0.16">ｻ</text>
+    <text x="768" y="28" fill="#00ff41" opacity="0.21">ｹ</text>
+    <text x="768" y="42" fill="#00ff41" opacity="0.27">ﾎ</text>
+    <text x="768" y="56" fill="#00ff41" opacity="0.32">ﾗ</text>
+    <text x="768" y="70" fill="#00ff41" opacity="0.38">0</text>
+    <text x="768" y="84" fill="#00ff41" opacity="0.43">ｷ</text>
+    <text x="768" y="98" fill="#00ff41" opacity="0.48">ﾓ</text>
+    <text x="768" y="112" fill="#00ff41" opacity="0.54">ｳ</text>
+    <text x="768" y="126" fill="#00ff41" opacity="0.6">ﾄ</text>
+    <text x="768" y="140" fill="#d0ffd0" opacity="1.0">ﾛ</text>
+  </g>
+  <g class="c37">
+    <text x="789" y="0" fill="#00ff41" opacity="0.1">3</text>
+    <text x="789" y="14" fill="#00ff41" opacity="0.16">ｶ</text>
+    <text x="789" y="28" fill="#00ff41" opacity="0.21">Z</text>
+    <text x="789" y="42" fill="#00ff41" opacity="0.27">ﾓ</text>
+    <text x="789" y="56" fill="#00ff41" opacity="0.32">ｳ</text>
+    <text x="789" y="70" fill="#00ff41" opacity="0.38">ｿ</text>
+    <text x="789" y="84" fill="#00ff41" opacity="0.43">ｼ</text>
+    <text x="789" y="98" fill="#00ff41" opacity="0.48">ﾁ</text>
+    <text x="789" y="112" fill="#00ff41" opacity="0.54">ｲ</text>
+    <text x="789" y="126" fill="#00ff41" opacity="0.6">3</text>
+    <text x="789" y="140" fill="#d0ffd0" opacity="1.0">ｶ</text>
+  </g>
+  </g>
+
+  <!-- dim overlay so text is readable -->
+  <rect width="800" height="110" rx="8" fill="#080808" opacity=".45"/>
+
+  <!-- name -->
+  <text class="name" x="400" y="58" text-anchor="middle">&#x2591;&#x2592;&#x2593;&#x2588;  · Julio Gonz&#xe1;lez ·  &#x2588;&#x2593;&#x2592;&#x2591;</text>
+
+  <!-- tagline -->
+  <text class="tag" x="400" y="84" text-anchor="middle">Full-stack &amp; mobile engineer  |  I craft useful things for people, and have a blast doing it.</text>
+</svg>
