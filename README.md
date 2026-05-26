@@ -13,6 +13,8 @@
 
 - ****Agent architecture**** — memory, context, reasoning and tool use
 
+- ****Google I/O 2026**** — Compose-first Android (Jetpack Compose v1.11), Flutter 3.44 with generative UI, Android 17 Adaptive Everywhere (phone · car · XR), native app generation from prompts in AI Studio, and Gemini 3.5 Flash optimised for mobile agentic tasks
+
 ---
 
 ## 📱 Mobile
@@ -44,7 +46,7 @@ REST APIs, event-driven architectures, third-party service integration.
 
 ```
 
-AWS · Firebase · Azure
+AWS · Firebase · Azure · Docker
 
 ```
 
