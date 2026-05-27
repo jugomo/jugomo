@@ -1,5 +1,5 @@
 
-<p align="center"><img src="header.svg" alt="Julio González"/></p>
+<p align="center"><img src="header.svg" alt="Julio Gonzalez"/></p>
 
 ---
 
