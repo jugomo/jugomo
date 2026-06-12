@@ -5,6 +5,8 @@
 
 ## 🧠 Currently exploring
 
+- ****[Notification Reader](https://github.com/jugomo/notification_reader)**** — Android app that captures system notifications and FCM push messages, stores them encrypted in Firebase Realtime Database, and lets trusted users monitor them in real time from their own device
+
 - ****Angular**** — create and deploy webapps and PWA
 
 - ****AI-assisted development workflows**** — local LLMs via Ollama, Claude Code, custom agents with their own identity (SOUL.md)
