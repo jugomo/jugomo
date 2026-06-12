@@ -5,6 +5,8 @@
 
 ## 🧠 Currently exploring
 
+- ****Contributing to [Open Food Facts](https://github.com/openfoodfacts/smooth-app)**** — open-source Flutter & Dart mobile app for Android and iOS
+
 - ****[Notification Reader](https://github.com/jugomo/notification_reader)**** — Android app that captures system notifications and FCM push messages, stores them encrypted in Firebase Realtime Database, and lets trusted users monitor them in real time from their own device
 
 - ****Angular**** — create and deploy webapps and PWA
