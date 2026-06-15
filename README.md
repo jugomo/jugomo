@@ -19,6 +19,8 @@
 
 - ****Google I/O 2026**** — Compose-first Android (Jetpack Compose v1.11), Flutter 3.44 with generative UI, Android 17 Adaptive Everywhere (phone · car · XR), native app generation from prompts in AI Studio, and Gemini 3.5 Flash optimised for mobile agentic tasks
 
+- ****WWDC 2026**** — iOS 27 & macOS Golden Gate, rebuilt Siri AI with cross-app context and standalone app, SwiftUI next-gen (less code · better performance · new toolbar & document APIs), Xcode 27 with on-device AI code completion, and App Intents as the new mandatory Siri integration surface (SiriKit deprecated)
+
 ---
 
 ## 📱 Mobile
