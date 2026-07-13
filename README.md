@@ -5,13 +5,13 @@
 
 ## 🧠 Currently exploring
 
-- ****Learning [KMP](https://kotlinlang.org/docs/multiplatform/)**** — Kotlin Multiplatform for sharing code across Android, iOS, and other targets
+- ****Learning [KMP](https://kotlinlang.org/docs/multiplatform/)**** - Kotlin Multiplatform for sharing code across Android, iOS, and other targets
 
 - ****Contributing to [Open Food Facts](https://github.com/openfoodfacts/smooth-app)**** — open-source Flutter & Dart mobile app for Android and iOS
 
 - ****Angular**** — create and deploy webapps and PWA
 
-- ****AI-assisted development & agent architecture**** — local LLMs via Ollama, Claude Code, custom agents with their own identity (SOUL.md), memory, context, reasoning and tool use — integrated into real products, not just demos
+- ****AI-assisted development & agent architecture**** — local LLMs via Ollama, Claude Code, custom agents, memory, context, reasoning and tool use, integrated into real products
 
 - ****Google I/O 2026**** — Compose-first Android (Jetpack Compose v1.11), Flutter 3.44 with generative UI, Android 17 Adaptive Everywhere (phone · car · XR), native app generation from prompts in AI Studio, and Gemini 3.5 Flash optimised for mobile agentic tasks
 
