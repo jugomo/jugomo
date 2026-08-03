@@ -95,19 +95,3 @@ My current focus is turning AI capabilities into real user value:
 
 ---
 
-## 🔧 How I work
-
-
-What defines me most:
-
-- I prefer ****understanding the problem**** before opening the editor
-
-- I care about the ****end user's experience****, not just the architecture
-
-- I believe in ****iterative products****: ship, measure, improve
-
-- I combine ****product vision with technical judgement**** I can talk to both business and engineering
-  
-
----
-
