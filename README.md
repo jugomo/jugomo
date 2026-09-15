@@ -4,12 +4,11 @@
 ---
 
 ## 🧠 Currently exploring
+- ****[iPhone Duo](https://developer.apple.com/iphone-duo/)****
 
 - ****[Production Monorepos](https://vercel.com/academy/production-monorepos)**** — Vercel Academy course on structuring and scaling monorepos in production
 
 - ****Learning [KMP](https://kotlinlang.org/docs/multiplatform/)**** — Kotlin Multiplatform for sharing code across Android, iOS, and other targets
-
-- ****Contributing to [Open Food Facts](https://github.com/openfoodfacts/smooth-app)**** - open-source Flutter & Dart mobile app for Android and iOS
 
 - ****Angular**** - create and deploy webapps and PWA
 
